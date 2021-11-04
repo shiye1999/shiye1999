@@ -15,8 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Hi there, I'm [reco_luan](https://www.recoluan.com)! 👋
-
 <details open>
  <summary> 😇 <b>My Github Stats</b>: </summary>
 <br>
